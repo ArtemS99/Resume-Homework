@@ -1,0 +1,17 @@
+.h1{
+    text-align: center;
+}
+.resume{
+    background-color: grey;
+}
+
+.photo{
+    float:right;
+}
+
+.extrainf{
+    background-color: grey;
+}
+body{
+    background-color: rgb(128, 120, 120);
+}
